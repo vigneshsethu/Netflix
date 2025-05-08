@@ -17,5 +17,5 @@ A handful of directors have a significant presence on the platform.
 # Screen Shot Netflix Movie Analysis
 - <a href="https://github.com/vigneshsethu/Netflix/blob/main/Netflix%20Movie.png">Netflix Movie Analysis</a>
 - ![Netflix Screen Shot](https://github.com/vigneshsethu/Netflix/blob/main/Netflix%20movie%20analysis1.png)
-- ![Netflix Movie Analysis] ()
+- ![Netflix Movie Analysis](https://github.com/vigneshsethu/Netflix/blob/main/Netflix%20movie%20analysis2.png)
 ## 
